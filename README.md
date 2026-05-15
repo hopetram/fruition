@@ -1,4 +1,6 @@
-# Fruition: Free, Open Source Toolkit For Customizing Your Notion Pages
+# EDIT: No longer updated
+
+## Fruition: Free, Open Source Toolkit For Customizing Your Notion Pages
 
 * Use cases: perfect for your portfolio, blog, landing page, and business site
 * Features: pretty URLs, custom domains, Google Fonts, SEO support, script injection
